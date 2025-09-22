@@ -57,7 +57,7 @@ gem install rake
 
 ## Usage
 
-**_Important:_** `validation.rb` is a required dependency to use `calculate_check_digit`.
+**_Important:_** `validation.rb` is a required dependency to use `calculate_check_digit.rb`.
 
 ```ruby
 # new_file.rb
